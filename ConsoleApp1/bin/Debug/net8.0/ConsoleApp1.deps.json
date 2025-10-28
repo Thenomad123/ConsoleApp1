@@ -16,7 +16,7 @@
   "libraries": {
     "ConsoleApp1/1.0.0": {
       "type": "project",
-      "serviceable": false,
+      "serviceable": true,
       "sha512": ""
     }
   }
